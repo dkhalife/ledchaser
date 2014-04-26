@@ -1,0 +1,14 @@
+Line	MessageNo	File Name
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F747 -DL -O11111114 -fo8 -N"I:\Documents\Projects\Pic Tools\Published Projects\Led Chaser\Led Chaser.mcppi" -SP"C:\Program Files (x86)\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Program Files (x86)\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"I:\Documents\Projects\Pic Tools\Published Projects\Led Chaser\" -SP"I:\Documents\Projects\Pic Tools\Projects\Led Chaser\" -SP"I:\Documents\Projects\Pic Tools\Led Chaser\" -SP"I:\Documents\Projects\Pic Tools\" "Led Chaser.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+warning: 0	1501	Specified search path does not exist: 'I:\Documents\Projects\Pic Tools\Projects\Led Chaser'	 
+warning: 0	1501	Specified search path does not exist: 'I:\Documents\Projects\Pic Tools\Led Chaser'	 
+diagnostics: 0	125	All files Preprocessed in 62 ms	 
+diagnostics: 0	121	Compilation Started	Led Chaser.c
+diagnostics: 59	122	Compiled Successfully	Led Chaser.c
+diagnostics: 0	126	All files Compiled in 343 ms	 
+hint: 0	1140	Used RAM (bytes): 5 (1%)  Free RAM (bytes): 347 (99%)	Used RAM (bytes): 5 (1%)  Free RAM (bytes): 347 (99%)
+hint: 0	1140	Used ROM (program words): 109 (3%)  Free ROM (program words): 3987 (97%)	Used ROM (program words): 109 (3%)  Free ROM (program words): 3987 (97%)
+diagnostics: 0	124	Project Linked Successfully	Led Chaser.mcppi
+diagnostics: 0	127	Linked in 749 ms	 
+diagnostics: 0	128	Project 'Led Chaser.mcppi' completed: 1248 ms	 
+diagnostics: 0	103	Finished successfully: 16 Feb 2011, 14:12:44	Led Chaser.mcppi

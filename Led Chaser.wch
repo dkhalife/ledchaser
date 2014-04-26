@@ -1,0 +1,16 @@
+[frmWatchValues]
+FormVersion=0
+Name1=PORTD
+ShowType1=0
+Signed1=FALSE
+Expanded1=FALSE
+WatchCount=2
+Column0=100
+Column1=80
+Column2=80
+cbPeripheralFreez_Checked=TRUE
+Name2=_i
+ShowType2=0
+Signed2=TRUE
+Expanded2=FALSE
+
